@@ -1,3 +1,3 @@
-# SQL-projects
-SQL PROJECTS
+# SQL-project (call center analysis)
+
 
